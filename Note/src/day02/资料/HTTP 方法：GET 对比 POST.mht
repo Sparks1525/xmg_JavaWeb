@@ -1,0 +1,1799 @@
+From: <Saved by Maxthon>
+Subject: HTTP ???GET ?? POST
+Date: Fri, 10 Sep 2015 18:21:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_5663_96ADBBAC.65C6C642"
+
+------=_NextPart_000_5663_96ADBBAC.65C6C642
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3school.com.cn/tags/html_ref_httpmethods.asp
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" data-find=3D"_5"><head><meta c=
+harset=3D"GBK">
+
+<meta http-equiv=3D"Content-Language" content=3D"zh-cn">
+
+<meta name=3D"robots" content=3D"all">
+
+<meta name=3D"author" content=3D"w3school.com.cn">
+<meta name=3D"Copyright" content=3D"Copyright W3school.com.cn All Rights Re=
+served.">
+<meta name=3D"MSSmartTagsPreventParsing" content=3D"true">
+<meta http-equiv=3D"imagetoolbar" content=3D"false">
+
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"http://www.w3school.com.=
+cn/c5.css">
+<link rel=3D"shortcut icon" href=3D"http://www.w3school.com.cn/favicon.ico"=
+ type=3D"image/x-icon">
+
+<title>HTTP =B7=BD=B7=A8=A3=BAGET =B6=D4=B1=C8 POST</title>
+</head>
+
+<body class=3D"html" id=3D"xhtmlreference" data-find=3D"_4">
+<div id=3D"wrapper" data-find=3D"_3">
+
+<div id=3D"header">
+<a href=3D"http://www.w3school.com.cn/index.html" title=3D"w3school =D4=DA=
+=CF=DF=BD=CC=B3=CC" style=3D"float:left;">w3school =D4=DA=CF=DF=BD=CC=B3=CC=
+</a>
+<div id=3D"ad_head">
+
+
+</div>
+</div>
+
+<div id=3D"navfirst">
+<ul id=3D"menu">
+<li id=3D"h"><a href=3D"http://www.w3school.com.cn/h.asp" title=3D"HTML =CF=
+=B5=C1=D0=BD=CC=B3=CC">HTML =CF=B5=C1=D0=BD=CC=B3=CC</a></li>
+<li id=3D"b"><a href=3D"http://www.w3school.com.cn/b.asp" title=3D"=E4=AF=
+=C0=C0=C6=F7=BD=C5=B1=BE=BD=CC=B3=CC">=E4=AF=C0=C0=C6=F7=BD=C5=B1=BE</a></l=
+i>
+<li id=3D"s"><a href=3D"http://www.w3school.com.cn/s.asp" title=3D"=B7=FE=
+=CE=F1=C6=F7=BD=C5=B1=BE=BD=CC=B3=CC">=B7=FE=CE=F1=C6=F7=BD=C5=B1=BE</a></l=
+i>
+<li id=3D"d"><a href=3D"http://www.w3school.com.cn/d.asp" title=3D"ASP.NET =
+=BD=CC=B3=CC">ASP.NET =BD=CC=B3=CC</a></li>
+<li id=3D"x"><a href=3D"http://www.w3school.com.cn/x.asp" title=3D"XML =CF=
+=B5=C1=D0=BD=CC=B3=CC">XML =CF=B5=C1=D0=BD=CC=B3=CC</a></li>
+<li id=3D"ws"><a href=3D"http://www.w3school.com.cn/ws.asp" title=3D"Web Se=
+rvices =CF=B5=C1=D0=BD=CC=B3=CC">Web Services =CF=B5=C1=D0=BD=CC=B3=CC</a><=
+/li>
+<li id=3D"w"><a href=3D"http://www.w3school.com.cn/w.asp" title=3D"=BD=A8=
+=D5=BE=CA=D6=B2=E1">=BD=A8=D5=BE=CA=D6=B2=E1</a></li>
+</ul>
+</div>
+
+<div id=3D"navsecond">
+
+<div id=3D"course"><h2>=B2=CE=BF=BC=CA=D6=B2=E1</h2>
+<ul>
+<li><a href=3D"http://www.w3school.com.cn/tags/index.asp" title=3D"HTML 4.0=
+1 / XHTML 1.0 =B2=CE=BF=BC=CA=D6=B2=E1">=B1=EA=C7=A9=C1=D0=B1=ED=A3=A8=D7=
+=D6=C4=B8=C5=C5=D0=F2=A3=A9</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_byfunc.asp" title=
+=3D"HTML 4.01 / XHTML 1.0 =B2=CE=BF=BC=CA=D6=B2=E1">=B1=EA=C7=A9=C1=D0=B1=
+=ED=A3=A8=B9=A6=C4=DC=C5=C5=D0=F2=A3=A9</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_standardattributes.=
+asp" title=3D"HTML =B1=EA=D7=BC=CA=F4=D0=D4">HTML =CA=F4=D0=D4</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_eventattributes.asp=
+" title=3D"HTML =CA=C2=BC=FE=CA=F4=D0=D4">HTML =CA=C2=BC=FE</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp=
+" title=3D"HTML Audio/Video DOM =CA=F4=D0=D4">HTML =CA=D3=C6=B5/=D2=F4=C6=
+=B5</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_canvas.asp" title=
+=3D"HTML Canvas =B2=CE=BF=BC=CA=D6=B2=E1">HTML =BB=AD=B2=BC</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_dtd.asp" title=3D"H=
+TML =D4=AA=CB=D8=BA=CD=D3=D0=D0=A7=B5=C4 DTD">HTML =CE=C4=B5=B5=C0=E0=D0=CD=
+</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_colornames.asp" tit=
+le=3D"HTML =D1=D5=C9=AB=C3=FB">HTML =D1=D5=C9=AB=C3=FB</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_charactersets.asp" =
+title=3D"HTML =D7=D6=B7=FB=BC=AF">HTML =D7=D6=B7=FB=BC=AF</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_ascii.asp" title=3D=
+"HTML 7 =B1=C8=CC=D8 ASCII =B4=FA=C2=EB =B2=CE=BF=BC=CA=D6=B2=E1">HTML ASCI=
+I</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_entities.html" titl=
+e=3D"HTML ISO-8859-1 =B2=CE=BF=BC=CA=D6=B2=E1">HTML ISO-8859-1</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_symbols.html" title=
+=3D"HTML =B7=FB=BA=C5=CA=B5=CC=E5">HTML =B7=FB=BA=C5</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_urlencode.html" tit=
+le=3D"HTML URL =B1=E0=C2=EB">HTML URL =B1=E0=C2=EB</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_language_codes.asp"=
+ title=3D"HTML =D3=EF=D1=D4=B4=FA=C2=EB=B2=CE=BF=BC=CA=D6=B2=E1">HTML =D3=
+=EF=D1=D4=B4=FA=C2=EB</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/html_ref_httpmessages.asp" t=
+itle=3D"HTTP =D7=B4=CC=AC=CF=FB=CF=A2">HTTP =CF=FB=CF=A2</a></li>
+<li class=3D"currentLink"><a href=3D"http://www.w3school.com.cn/tags/html_r=
+ef_httpmethods.asp" title=3D"HTTP =B7=BD=B7=A8=A3=BAGET =B6=D4=B1=C8 POST">=
+HTTP =B7=BD=B7=A8</a></li>
+</ul>
+<h2>HTML =B1=EA=C7=A9</h2>
+<ul>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_comment.asp" title=3D"HT=
+ML &lt;!--&gt; =B1=EA=C7=A9">&lt;!--&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_doctype.asp" title=3D"HT=
+ML &lt;!DOCTYPE&gt; =B1=EA=C7=A9">&lt;!DOCTYPE&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_a.asp" title=3D"HTML &lt=
+;a&gt; =B1=EA=C7=A9">&lt;a&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_abbr.asp" title=3D"HTML =
+&lt;abbr&gt; =B1=EA=C7=A9">&lt;abbr&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_acronym.asp" title=3D"HT=
+ML &lt;acronym&gt; =B1=EA=C7=A9">&lt;acronym&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_address.asp" title=3D"HT=
+ML &lt;address&gt; =B1=EA=C7=A9">&lt;address&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_applet.asp" title=3D"HTM=
+L &lt;applet&gt; =B1=EA=C7=A9">&lt;applet&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_area.asp" title=3D"HTML =
+&lt;area&gt; =B1=EA=C7=A9">&lt;area&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_article.asp" title=3D"HT=
+ML &lt;article&gt; =B1=EA=C7=A9">&lt;article&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_aside.asp" title=3D"HTML=
+ &lt;aside&gt; =B1=EA=C7=A9">&lt;aside&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_audio.asp" title=3D"HTML=
+ &lt;audio&gt; =B1=EA=C7=A9">&lt;audio&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_b.asp" title=3D"HTML &lt=
+;b&gt; =B1=EA=C7=A9">&lt;b&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_base.asp" title=3D"HTML =
+&lt;base&gt; =B1=EA=C7=A9">&lt;base&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_basefont.asp" title=3D"H=
+TML &lt;basefont&gt; =B1=EA=C7=A9">&lt;basefont&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_bdi.asp" title=3D"HTML &=
+lt;bdi&gt; =B1=EA=C7=A9">&lt;bdi&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_bdo.asp" title=3D"HTML &=
+lt;bdo&gt; =B1=EA=C7=A9">&lt;bdo&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_big.asp" title=3D"HTML &=
+lt;big&gt; =B1=EA=C7=A9">&lt;big&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_blockquote.asp" title=3D=
+"HTML &lt;blockquote&gt; =B1=EA=C7=A9">&lt;blockquote&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_body.asp" title=3D"HTML =
+&lt;body&gt; =B1=EA=C7=A9">&lt;body&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_br.asp" title=3D"HTML &l=
+t;br&gt; =B1=EA=C7=A9">&lt;br&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_button.asp" title=3D"HTM=
+L &lt;button&gt; =B1=EA=C7=A9">&lt;button&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_canvas.asp" title=3D"HTM=
+L &lt;canvas&gt; =B1=EA=C7=A9">&lt;canvas&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_caption.asp" title=3D"HT=
+ML &lt;caption&gt; =B1=EA=C7=A9">&lt;caption&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_center.asp" title=3D"HTM=
+L &lt;center&gt; =B1=EA=C7=A9">&lt;center&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_cite.asp" title=3D"HTML =
+&lt;cite&gt; =B1=EA=C7=A9">&lt;cite&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;code&gt; =B1=EA=C7=A9">&lt;code&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_col.asp" title=3D"HTML &=
+lt;col&gt; =B1=EA=C7=A9">&lt;col&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_colgroup.asp" title=3D"H=
+TML &lt;colgroup&gt; =B1=EA=C7=A9">&lt;colgroup&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_command.asp" title=3D"HT=
+ML &lt;command&gt; =B1=EA=C7=A9">&lt;command&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_datalist.asp" title=3D"H=
+TML &lt;datalist&gt; =B1=EA=C7=A9">&lt;datalist&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_dd.asp" title=3D"HTML &l=
+t;dd&gt; =B1=EA=C7=A9">&lt;dd&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_del.asp" title=3D"HTML &=
+lt;del&gt; =B1=EA=C7=A9">&lt;del&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_details.asp" title=3D"HT=
+ML &lt;details&gt; =B1=EA=C7=A9">&lt;details&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;dfn&gt; =B1=EA=C7=A9">&lt;dfn&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_dialog.asp" title=3D"HTM=
+L &lt;dialog&gt; =B1=EA=C7=A9">&lt;dialog&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_dir.asp" title=3D"HTML &=
+lt;dir&gt; =B1=EA=C7=A9">&lt;dir&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_div.asp" title=3D"HTML &=
+lt;div&gt; =B1=EA=C7=A9">&lt;div&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_dl.asp" title=3D"HTML &l=
+t;dl&gt; =B1=EA=C7=A9">&lt;dl&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_dt.asp" title=3D"HTML &l=
+t;dt&gt; =B1=EA=C7=A9">&lt;dt&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;em&gt; =B1=EA=C7=A9">&lt;em&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_embed.asp" title=3D"HTML=
+ &lt;embed&gt; =B1=EA=C7=A9">&lt;embed&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_fieldset.asp" title=3D"H=
+TML &lt;fieldset&gt; =B1=EA=C7=A9">&lt;fieldset&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_figcaption.asp" title=3D=
+"HTML &lt;figcaption&gt; =B1=EA=C7=A9">&lt;figcaption&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_figure.asp" title=3D"HTM=
+L &lt;figure&gt; =B1=EA=C7=A9">&lt;figure&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_font.asp" title=3D"HTML =
+&lt;font&gt; =B1=EA=C7=A9">&lt;font&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_footer.asp" title=3D"HTM=
+L &lt;footer&gt; =B1=EA=C7=A9">&lt;footer&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_form.asp" title=3D"HTML =
+&lt;form&gt; =B1=EA=C7=A9">&lt;form&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_frame.asp" title=3D"HTML=
+ &lt;frame&gt; =B1=EA=C7=A9">&lt;frame&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_frameset.asp" title=3D"H=
+TML &lt;frameset&gt; =B1=EA=C7=A9">&lt;frameset&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_hn.asp" title=3D"HTML &l=
+t;h1&gt; - &lt;h6&gt; =B1=EA=C7=A9">&lt;h1&gt; - &lt;h6&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_head.asp" title=3D"HTML =
+&lt;head&gt; =B1=EA=C7=A9">&lt;head&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_header.asp" title=3D"HTM=
+L &lt;header&gt; =B1=EA=C7=A9">&lt;header&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_hr.asp" title=3D"HTML &l=
+t;hr&gt; =B1=EA=C7=A9">&lt;hr&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_html.asp" title=3D"HTML =
+&lt;html&gt; =B1=EA=C7=A9">&lt;html&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_i.asp" title=3D"HTML &lt=
+;i&gt; =B1=EA=C7=A9">&lt;i&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_iframe.asp" title=3D"HTM=
+L &lt;iframe&gt; =B1=EA=C7=A9">&lt;iframe&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_img.asp" title=3D"HTML &=
+lt;img&gt; =B1=EA=C7=A9">&lt;img&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_input.asp" title=3D"HTML=
+ &lt;input&gt; =B1=EA=C7=A9">&lt;input&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_ins.asp" title=3D"HTML &=
+lt;ins&gt; =B1=EA=C7=A9">&lt;ins&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;kbd&gt; =B1=EA=C7=A9">&lt;kbd&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_keygen.asp" title=3D"HTM=
+L &lt;keygen&gt; =B1=EA=C7=A9">&lt;keygen&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_label.asp" title=3D"HTML=
+ &lt;label&gt; =B1=EA=C7=A9">&lt;label&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_legend.asp" title=3D"HTM=
+L &lt;legend&gt; =B1=EA=C7=A9">&lt;legend&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_li.asp" title=3D"HTML &l=
+t;li&gt; =B1=EA=C7=A9">&lt;li&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_link.asp" title=3D"HTML =
+&lt;link&gt; =B1=EA=C7=A9">&lt;link&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_main.asp" title=3D"HTML =
+&lt;main&gt; =B1=EA=C7=A9">&lt;main&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_map.asp" title=3D"HTML &=
+lt;map&gt; =B1=EA=C7=A9">&lt;map&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_mark.asp" title=3D"HTML =
+&lt;mark&gt; =B1=EA=C7=A9">&lt;mark&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_menu.asp" title=3D"HTML =
+&lt;menu&gt; =B1=EA=C7=A9">&lt;menu&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_menuitem.asp" title=3D"H=
+TML &lt;menuitem&gt; =B1=EA=C7=A9">&lt;menuitem&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_meta.asp" title=3D"HTML =
+&lt;meta&gt; =B1=EA=C7=A9">&lt;meta&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_meter.asp" title=3D"HTML=
+ &lt;meter&gt; =B1=EA=C7=A9">&lt;meter&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_nav.asp" title=3D"HTML &=
+lt;nav&gt; =B1=EA=C7=A9">&lt;nav&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_noframes.asp" title=3D"H=
+TML &lt;noframes&gt; =B1=EA=C7=A9">&lt;noframes&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_noscript.asp" title=3D"H=
+TML &lt;noscript&gt; =B1=EA=C7=A9">&lt;noscript&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_object.asp" title=3D"HTM=
+L &lt;object&gt; =B1=EA=C7=A9">&lt;object&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_ol.asp" title=3D"HTML &l=
+t;ol&gt; =B1=EA=C7=A9">&lt;ol&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_optgroup.asp" title=3D"H=
+TML &lt;optgroup&gt; =B1=EA=C7=A9">&lt;optgroup&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_option.asp" title=3D"HTM=
+L &lt;option&gt; =B1=EA=C7=A9">&lt;option&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_output.asp" title=3D"HTM=
+L &lt;output&gt; =B1=EA=C7=A9">&lt;output&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_p.asp" title=3D"HTML &lt=
+;p&gt; =B1=EA=C7=A9">&lt;p&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_param.asp" title=3D"HTML=
+ &lt;param&gt; =B1=EA=C7=A9">&lt;param&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_pre.asp" title=3D"HTML &=
+lt;pre&gt; =B1=EA=C7=A9">&lt;pre&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_progress.asp" title=3D"H=
+TML &lt;progress&gt; =B1=EA=C7=A9">&lt;progress&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_q.asp" title=3D"HTML &lt=
+;q&gt; =B1=EA=C7=A9">&lt;q&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_rp.asp" title=3D"HTML &l=
+t;rp&gt; =B1=EA=C7=A9">&lt;rp&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_rt.asp" title=3D"HTML &l=
+t;rt&gt; =B1=EA=C7=A9">&lt;rt&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_ruby.asp" title=3D"HTML =
+&lt;ruby&gt; =B1=EA=C7=A9">&lt;ruby&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_s.asp" title=3D"HTML &lt=
+;s&gt; =B1=EA=C7=A9">&lt;s&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;samp&gt; =B1=EA=C7=A9">&lt;samp&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_script.asp" title=3D"HTM=
+L &lt;script&gt; =B1=EA=C7=A9">&lt;script&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_section.asp" title=3D"HT=
+ML &lt;section&gt; =B1=EA=C7=A9">&lt;section&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_select.asp" title=3D"HTM=
+L &lt;select&gt; =B1=EA=C7=A9">&lt;select&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_small.asp" title=3D"HTML=
+ &lt;small&gt; =B1=EA=C7=A9">&lt;small&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_source.asp" title=3D"HTM=
+L &lt;source&gt; =B1=EA=C7=A9">&lt;source&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_span.asp" title=3D"HTML =
+&lt;span&gt; =B1=EA=C7=A9">&lt;span&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_strike.asp" title=3D"HTM=
+L &lt;strike&gt; =B1=EA=C7=A9">&lt;strike&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;strong&gt; =B1=EA=C7=A9">&lt;strong&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_style.asp" title=3D"HTML=
+ &lt;style&gt; =B1=EA=C7=A9">&lt;style&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_sub.asp" title=3D"HTML &=
+lt;sub&gt; =B1=EA=C7=A9">&lt;sub&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_summary.asp" title=3D"HT=
+ML &lt;summary&gt; =B1=EA=C7=A9">&lt;summary&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_sup.asp" title=3D"HTML &=
+lt;sup&gt; =B1=EA=C7=A9">&lt;sup&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_table.asp" title=3D"HTML=
+ &lt;table&gt; =B1=EA=C7=A9">&lt;table&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_tbody.asp" title=3D"HTML=
+ &lt;tbody&gt; =B1=EA=C7=A9">&lt;tbody&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_td.asp" title=3D"HTML &l=
+t;td&gt; =B1=EA=C7=A9">&lt;td&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_textarea.asp" title=3D"H=
+TML &lt;textarea&gt; =B1=EA=C7=A9">&lt;textarea&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_tfoot.asp" title=3D"HTML=
+ &lt;tfoot&gt; =B1=EA=C7=A9">&lt;tfoot&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_th.asp" title=3D"HTML &l=
+t;th&gt; =B1=EA=C7=A9">&lt;th&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_thead.asp" title=3D"HTML=
+ &lt;thead&gt; =B1=EA=C7=A9">&lt;thead&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_time.asp" title=3D"HTML =
+&lt;time&gt; =B1=EA=C7=A9">&lt;time&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_title.asp" title=3D"HTML=
+ &lt;title&gt; =B1=EA=C7=A9">&lt;title&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_tr.asp" title=3D"HTML &l=
+t;tr&gt; =B1=EA=C7=A9">&lt;tr&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_track.asp" title=3D"HTML=
+ &lt;track&gt; =B1=EA=C7=A9">&lt;track&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_tt.asp" title=3D"HTML &l=
+t;tt&gt; =B1=EA=C7=A9">&lt;tt&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_u.asp" title=3D"HTML &lt=
+;u&gt; =B1=EA=C7=A9">&lt;u&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_ul.asp" title=3D"HTML &l=
+t;ul&gt; =B1=EA=C7=A9">&lt;ul&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_phrase_elements.asp" tit=
+le=3D"HTML &lt;var&gt; =B1=EA=C7=A9">&lt;var&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_video.asp" title=3D"HTML=
+ &lt;video&gt; =B1=EA=C7=A9">&lt;video&gt;</a></li>
+<li><a href=3D"http://www.w3school.com.cn/tags/tag_wbr.asp" title=3D"HTML &=
+lt;wbr&gt; =B1=EA=C7=A9">&lt;wbr&gt;</a></li>
+</ul>
+</div><div id=3D"selected">
+<h2>=BD=A8=D5=BE=CA=D6=B2=E1</h2>
+<ul>
+<li><a href=3D"http://www.w3school.com.cn/site/index.asp" title=3D"=CD=F8=
+=D5=BE=B9=B9=BD=A8">=CD=F8=D5=BE=B9=B9=BD=A8</a></li>
+<li><a href=3D"http://www.w3school.com.cn/w3c/index.asp" title=3D"=CD=F2=CE=
+=AC=CD=F8=C1=AA=C3=CB (W3C)">=CD=F2=CE=AC=CD=F8=C1=AA=C3=CB (W3C)</a></li>
+<li><a href=3D"http://www.w3school.com.cn/browsers/index.asp" title=3D"=E4=
+=AF=C0=C0=C6=F7=D0=C5=CF=A2">=E4=AF=C0=C0=C6=F7=D0=C5=CF=A2</a></li>
+<li><a href=3D"http://www.w3school.com.cn/quality/index.asp" title=3D"=CD=
+=F8=D5=BE=C6=B7=D6=CA">=CD=F8=D5=BE=C6=B7=D6=CA</a></li>
+<li><a href=3D"http://www.w3school.com.cn/semweb/index.asp" title=3D"=D3=EF=
+=D2=E5=CD=F8">=D3=EF=D2=E5=CD=F8</a></li>
+<li><a href=3D"http://www.w3school.com.cn/careers/index.asp" title=3D"=D6=
+=B0=D2=B5=B9=E6=BB=AE">=D6=B0=D2=B5=B9=E6=BB=AE</a></li>
+<li><a href=3D"http://www.w3school.com.cn/hosting/index.asp" title=3D"=CD=
+=F8=D5=BE=D6=F7=BB=FA">=CD=F8=D5=BE=D6=F7=BB=FA</a></li>
+</ul>
+
+<h2><a href=3D"http://www.w3school.com.cn/about/index.asp" title=3D"=B9=D8=
+=D3=DA W3School" id=3D"link_about">=B9=D8=D3=DA W3School</a></h2>
+<h2><a href=3D"http://www.w3school.com.cn/about/about_helping.asp" title=3D=
+"=B0=EF=D6=FA W3School" id=3D"link_help">=B0=EF=D6=FA W3School</a></h2>
+
+</div>
+
+</div>
+
+<div id=3D"maincontent" data-find=3D"_2">
+
+<h1>HTTP =B7=BD=B7=A8=A3=BAGET =B6=D4=B1=C8 POST</h1>
+
+<div id=3D"tpn">
+<ul class=3D"prenext">
+<li class=3D"pre"><a href=3D"http://www.w3school.com.cn/tags/html_ref_httpm=
+essages.asp" title=3D"HTTP =D7=B4=CC=AC=CF=FB=CF=A2">HTTP =CF=FB=CF=A2</a><=
+/li>
+<li class=3D"next"><a href=3D"http://www.w3school.com.cn/tags/index.asp" ti=
+tle=3D"HTML 4.01 / XHTML 1.0 =B2=CE=BF=BC=CA=D6=B2=E1">=B1=EA=C7=A9=C1=D0=
+=B1=ED=A3=A8=D7=D6=C4=B8=C5=C5=D0=F2=A3=A9</a></li>
+</ul>
+</div>
+
+
+<div id=3D"intro">
+<p><strong>=C1=BD=D6=D6=D7=EE=B3=A3=D3=C3=B5=C4 HTTP =B7=BD=B7=A8=CA=C7=A3=
+=BAGET =BA=CD POST=A1=A3</strong></p>
+</div>
+
+
+<div>
+<h2>=CA=B2=C3=B4=CA=C7 HTTP=A3=BF</h2>
+
+<p>=B3=AC=CE=C4=B1=BE=B4=AB=CA=E4=D0=AD=D2=E9=A3=A8HTTP=A3=A9=B5=C4=C9=E8=
+=BC=C6=C4=BF=B5=C4=CA=C7=B1=A3=D6=A4=BF=CD=BB=A7=BB=FA=D3=EB=B7=FE=CE=F1=C6=
+=F7=D6=AE=BC=E4=B5=C4=CD=A8=D0=C5=A1=A3</p>
+
+<p>HTTP =B5=C4=B9=A4=D7=F7=B7=BD=CA=BD=CA=C7=BF=CD=BB=A7=BB=FA=D3=EB=B7=FE=
+=CE=F1=C6=F7=D6=AE=BC=E4=B5=C4=C7=EB=C7=F3-=D3=A6=B4=F0=D0=AD=D2=E9=A1=A3</=
+p>
+
+<p>web =E4=AF=C0=C0=C6=F7=BF=C9=C4=DC=CA=C7=BF=CD=BB=A7=B6=CB=A3=AC=B6=F8=
+=BC=C6=CB=E3=BB=FA=C9=CF=B5=C4=CD=F8=C2=E7=D3=A6=D3=C3=B3=CC=D0=F2=D2=B2=BF=
+=C9=C4=DC=D7=F7=CE=AA=B7=FE=CE=F1=C6=F7=B6=CB=A1=A3</p>
+
+<p>=BE=D9=C0=FD=A3=BA=BF=CD=BB=A7=B6=CB=A3=A8=E4=AF=C0=C0=C6=F7=A3=A9=CF=F2=
+=B7=FE=CE=F1=C6=F7=CC=E1=BD=BB HTTP =C7=EB=C7=F3=A3=BB=B7=FE=CE=F1=C6=F7=CF=
+=F2=BF=CD=BB=A7=B6=CB=B7=B5=BB=D8=CF=EC=D3=A6=A1=A3=CF=EC=D3=A6=B0=FC=BA=AC=
+=B9=D8=D3=DA=C7=EB=C7=F3=B5=C4=D7=B4=CC=AC=D0=C5=CF=A2=D2=D4=BC=B0=BF=C9=C4=
+=DC=B1=BB=C7=EB=C7=F3=B5=C4=C4=DA=C8=DD=A1=A3</p>
+</div>
+
+
+<div>
+<h2>=C1=BD=D6=D6 HTTP =C7=EB=C7=F3=B7=BD=B7=A8=A3=BAGET =BA=CD POST</h2>
+
+<p>=D4=DA=BF=CD=BB=A7=BB=FA=BA=CD=B7=FE=CE=F1=C6=F7=D6=AE=BC=E4=BD=F8=D0=D0=
+=C7=EB=C7=F3-=CF=EC=D3=A6=CA=B1=A3=AC=C1=BD=D6=D6=D7=EE=B3=A3=B1=BB=D3=C3=
+=B5=BD=B5=C4=B7=BD=B7=A8=CA=C7=A3=BAGET =BA=CD POST=A1=A3</p>
+
+<ul>
+<li><em>GET</em> - =B4=D3=D6=B8=B6=A8=B5=C4=D7=CA=D4=B4=C7=EB=C7=F3=CA=FD=
+=BE=DD=A1=A3</li>
+<li><em>POST</em> - =CF=F2=D6=B8=B6=A8=B5=C4=D7=CA=D4=B4=CC=E1=BD=BB=D2=AA=
+=B1=BB=B4=A6=C0=ED=B5=C4=CA=FD=BE=DD</li>
+</ul>
+</div>
+
+
+<div data-find=3D"_6">
+<h2>GET =B7=BD=B7=A8</h2>
+
+<p class=3D"marked">=C7=EB=D7=A2=D2=E2=A3=AC=B2=E9=D1=AF=D7=D6=B7=FB=B4=AE=
+=A3=A8=C3=FB=B3=C6/=D6=B5=B6=D4=A3=A9=CA=C7=D4=DA GET =C7=EB=C7=F3=B5=C4 UR=
+L =D6=D0=B7=A2=CB=CD=B5=C4=A3=BA</p>
+
+<pre>/test/demo_form.asp?name1=3Dvalue1&amp;name2=3Dvalue2</pre>
+
+<p>=D3=D0=B9=D8 GET =C7=EB=C7=F3=B5=C4=C6=E4=CB=FB=D2=BB=D0=A9=D7=A2=CA=CD=
+=A3=BA</p>
+
+<ul>
+<li>GET =C7=EB=C7=F3=BF=C9=B1=BB=BB=BA=B4=E6</li>
+<li>GET =C7=EB=C7=F3=B1=A3=C1=F4=D4=DA=E4=AF=C0=C0=C6=F7=C0=FA=CA=B7=BC=C7=
+=C2=BC=D6=D0</li>
+<li>GET =C7=EB=C7=F3=BF=C9=B1=BB=CA=D5=B2=D8=CE=AA=CA=E9=C7=A9</li>
+<li>GET =C7=EB=C7=F3=B2=BB=D3=A6=D4=DA=B4=A6=C0=ED=C3=F4=B8=D0=CA=FD=BE=DD=
+=CA=B1=CA=B9=D3=C3</li>
+<li>GET =C7=EB=C7=F3=D3=D0=B3=A4=B6=C8=CF=DE=D6=C6</li>
+<li>GET =C7=EB=C7=F3=D6=BB=D3=A6=B5=B1=D3=C3=D3=DA=C8=A1=BB=D8=CA=FD=BE=DD<=
+/li>
+</ul>
+</div>
+
+
+<div data-find=3D"_1">
+<h2>POST =B7=BD=B7=A8</h2>
+
+<p class=3D"marked">=C7=EB=D7=A2=D2=E2=A3=AC=B2=E9=D1=AF=D7=D6=B7=FB=B4=AE=
+=A3=A8=C3=FB=B3=C6/=D6=B5=B6=D4=A3=A9=CA=C7=D4=DA POST =C7=EB=C7=F3=B5=C4 H=
+TTP =CF=FB=CF=A2=D6=F7=CC=E5=D6=D0=B7=A2=CB=CD=B5=C4=A3=BA</p>
+
+<pre>POST /test/demo_form.asp HTTP/1.1
+Host: w3schools.com
+name1=3Dvalue1&amp;name2=3Dvalue2
+</pre>
+
+<p>=D3=D0=B9=D8 POST =C7=EB=C7=F3=B5=C4=C6=E4=CB=FB=D2=BB=D0=A9=D7=A2=CA=CD=
+=A3=BA</p>
+
+<ul>
+<li>POST =C7=EB=C7=F3=B2=BB=BB=E1=B1=BB=BB=BA=B4=E6</li>
+<li>POST =C7=EB=C7=F3=B2=BB=BB=E1=B1=A3=C1=F4=D4=DA=E4=AF=C0=C0=C6=F7=C0=FA=
+=CA=B7=BC=C7=C2=BC=D6=D0</li>
+<li>POST =B2=BB=C4=DC=B1=BB=CA=D5=B2=D8=CE=AA=CA=E9=C7=A9</li>
+<li>POST =C7=EB=C7=F3=B6=D4=CA=FD=BE=DD=B3=A4=B6=C8=C3=BB=D3=D0=D2=AA=C7=F3=
+</li>
+</ul>
+</div>
+
+
+<div>
+<h2>=B1=C8=BD=CF GET =D3=EB POST</h2>
+
+<p>=CF=C2=C3=E6=B5=C4=B1=ED=B8=F1=B1=C8=BD=CF=C1=CB=C1=BD=D6=D6 HTTP =B7=BD=
+=B7=A8=A3=BAGET =BA=CD POST=A1=A3</p>
+
+<table class=3D"dataintable">
+<tbody><tr>
+<th style=3D"width:20%;">&nbsp;</th>
+<th>GET</th>
+<th>POST</th>
+</tr>
+
+<tr>
+<td>=BA=F3=CD=CB=B0=B4=C5=A5/=CB=A2=D0=C2</td>
+<td>=CE=DE=BA=A6</td>
+<td>=CA=FD=BE=DD=BB=E1=B1=BB=D6=D8=D0=C2=CC=E1=BD=BB=A3=A8=E4=AF=C0=C0=C6=
+=F7=D3=A6=B8=C3=B8=E6=D6=AA=D3=C3=BB=A7=CA=FD=BE=DD=BB=E1=B1=BB=D6=D8=D0=C2=
+=CC=E1=BD=BB=A3=A9=A1=A3</td>
+</tr>
+
+<tr>
+<td>=CA=E9=C7=A9</td>
+<td>=BF=C9=CA=D5=B2=D8=CE=AA=CA=E9=C7=A9</td>
+<td>=B2=BB=BF=C9=CA=D5=B2=D8=CE=AA=CA=E9=C7=A9</td>
+</tr>
+
+<tr>
+<td>=BB=BA=B4=E6</td>
+<td>=C4=DC=B1=BB=BB=BA=B4=E6</td>
+<td>=B2=BB=C4=DC=BB=BA=B4=E6</td>
+</tr>
+
+<tr>
+<td>=B1=E0=C2=EB=C0=E0=D0=CD</td>
+<td>application/x-www-form-urlencoded</td>
+<td>application/x-www-form-urlencoded =BB=F2 multipart/form-data=A1=A3=CE=
+=AA=B6=FE=BD=F8=D6=C6=CA=FD=BE=DD=CA=B9=D3=C3=B6=E0=D6=D8=B1=E0=C2=EB=A1=A3=
+</td>
+</tr>
+
+<tr>
+<td>=C0=FA=CA=B7</td>
+<td>=B2=CE=CA=FD=B1=A3=C1=F4=D4=DA=E4=AF=C0=C0=C6=F7=C0=FA=CA=B7=D6=D0=A1=
+=A3</td>
+<td>=B2=CE=CA=FD=B2=BB=BB=E1=B1=A3=B4=E6=D4=DA=E4=AF=C0=C0=C6=F7=C0=FA=CA=
+=B7=D6=D0=A1=A3</td>
+</tr>
+
+<tr>
+<td>=B6=D4=CA=FD=BE=DD=B3=A4=B6=C8=B5=C4=CF=DE=D6=C6</td>
+<td>=CA=C7=B5=C4=A1=A3=B5=B1=B7=A2=CB=CD=CA=FD=BE=DD=CA=B1=A3=ACGET =B7=BD=
+=B7=A8=CF=F2 URL =CC=ED=BC=D3=CA=FD=BE=DD=A3=BBURL =B5=C4=B3=A4=B6=C8=CA=C7=
+=CA=DC=CF=DE=D6=C6=B5=C4=A3=A8URL =B5=C4=D7=EE=B4=F3=B3=A4=B6=C8=CA=C7 2048=
+ =B8=F6=D7=D6=B7=FB=A3=A9=A1=A3</td>
+<td>=CE=DE=CF=DE=D6=C6=A1=A3</td>
+</tr>
+
+<tr>
+<td>=B6=D4=CA=FD=BE=DD=C0=E0=D0=CD=B5=C4=CF=DE=D6=C6</td>
+<td>=D6=BB=D4=CA=D0=ED ASCII =D7=D6=B7=FB=A1=A3</td>
+<td>=C3=BB=D3=D0=CF=DE=D6=C6=A1=A3=D2=B2=D4=CA=D0=ED=B6=FE=BD=F8=D6=C6=CA=
+=FD=BE=DD=A1=A3</td>
+</tr>
+
+<tr>
+<td>=B0=B2=C8=AB=D0=D4</td>
+<td><p>=D3=EB POST =CF=E0=B1=C8=A3=ACGET =B5=C4=B0=B2=C8=AB=D0=D4=BD=CF=B2=
+=EE=A3=AC=D2=F2=CE=AA=CB=F9=B7=A2=CB=CD=B5=C4=CA=FD=BE=DD=CA=C7 URL =B5=C4=
+=D2=BB=B2=BF=B7=D6=A1=A3</p>
+<p>=D4=DA=B7=A2=CB=CD=C3=DC=C2=EB=BB=F2=C6=E4=CB=FB=C3=F4=B8=D0=D0=C5=CF=A2=
+=CA=B1=BE=F8=B2=BB=D2=AA=CA=B9=D3=C3 GET =A3=A1</p></td>
+<td>POST =B1=C8 GET =B8=FC=B0=B2=C8=AB=A3=AC=D2=F2=CE=AA=B2=CE=CA=FD=B2=BB=
+=BB=E1=B1=BB=B1=A3=B4=E6=D4=DA=E4=AF=C0=C0=C6=F7=C0=FA=CA=B7=BB=F2 web =B7=
+=FE=CE=F1=C6=F7=C8=D5=D6=BE=D6=D0=A1=A3</td>
+</tr>
+
+<tr>
+<td>=BF=C9=BC=FB=D0=D4</td>
+<td>=CA=FD=BE=DD=D4=DA URL =D6=D0=B6=D4=CB=F9=D3=D0=C8=CB=B6=BC=CA=C7=BF=C9=
+=BC=FB=B5=C4=A1=A3</td>
+<td>=CA=FD=BE=DD=B2=BB=BB=E1=CF=D4=CA=BE=D4=DA URL =D6=D0=A1=A3</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div>
+<h2>=C6=E4=CB=FB HTTP =C7=EB=C7=F3=B7=BD=B7=A8</h2>
+
+<p>=CF=C2=C3=E6=B5=C4=B1=ED=B8=F1=C1=D0=B3=F6=C1=CB=C6=E4=CB=FB=D2=BB=D0=A9=
+ HTTP =C7=EB=C7=F3=B7=BD=B7=A8=A3=BA</p>
+
+<table class=3D"dataintable">
+<tbody><tr>
+<th style=3D"width:20%;">=B7=BD=B7=A8</th>
+<th>=C3=E8=CA=F6</th>
+</tr>
+
+<tr>
+<td>HEAD</td>
+<td>=D3=EB GET =CF=E0=CD=AC=A3=AC=B5=AB=D6=BB=B7=B5=BB=D8 HTTP =B1=A8=CD=B7=
+=A3=AC=B2=BB=B7=B5=BB=D8=CE=C4=B5=B5=D6=F7=CC=E5=A1=A3</td>
+</tr>
+
+<tr>
+<td>PUT</td>
+<td>=C9=CF=B4=AB=D6=B8=B6=A8=B5=C4 URI =B1=ED=CA=BE=A1=A3</td>
+</tr>
+
+<tr>
+<td>DELETE</td>
+<td>=C9=BE=B3=FD=D6=B8=B6=A8=D7=CA=D4=B4=A1=A3</td>
+</tr>
+
+<tr>
+<td>OPTIONS</td>
+<td>=B7=B5=BB=D8=B7=FE=CE=F1=C6=F7=D6=A7=B3=D6=B5=C4 HTTP =B7=BD=B7=A8=A1=
+=A3</td>
+</tr>
+
+<tr>
+<td>CONNECT</td>
+<td>=B0=D1=C7=EB=C7=F3=C1=AC=BD=D3=D7=AA=BB=BB=B5=BD=CD=B8=C3=F7=B5=C4 TCP/=
+IP =CD=A8=B5=C0=A1=A3</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<div id=3D"bpn">
+<ul class=3D"prenext">
+<li class=3D"pre"><a href=3D"http://www.w3school.com.cn/tags/html_ref_httpm=
+essages.asp" title=3D"HTTP =D7=B4=CC=AC=CF=FB=CF=A2">HTTP =CF=FB=CF=A2</a><=
+/li>
+<li class=3D"next"><a href=3D"http://www.w3school.com.cn/tags/index.asp" ti=
+tle=3D"HTML 4.01 / XHTML 1.0 =B2=CE=BF=BC=CA=D6=B2=E1">=B1=EA=C7=A9=C1=D0=
+=B1=ED=A3=A8=D7=D6=C4=B8=C5=C5=D0=F2=A3=A9</a></li>
+</ul>
+</div>
+
+</div>
+
+<div id=3D"sidebar">
+
+<div id=3D"searchui">
+<form method=3D"get" id=3D"searchform" action=3D"http://www.google.com.hk/s=
+earch">
+<p><label for=3D"searched_content">Search:</label></p>
+<p><input type=3D"hidden" name=3D"sitesearch" value=3D"w3school.com.cn"></p=
+>
+<p>
+<input type=3D"text" name=3D"as_q" class=3D"box" id=3D"searched_content" ti=
+tle=3D"=D4=DA=B4=CB=CA=E4=C8=EB=CB=D1=CB=F7=C4=DA=C8=DD=A1=A3">
+<input type=3D"submit" value=3D"Go" class=3D"button" title=3D"=CB=D1=CB=F7=
+=A3=A1">
+</p>
+</form>
+</div>
+
+<div id=3D"tools">
+<h5 id=3D"tools_reference"><a href=3D"http://www.w3school.com.cn/tags/index=
+.asp">HTML =B2=CE=BF=BC=CA=D6=B2=E1</a></h5>
+<h5 id=3D"tools_example"><a href=3D"http://www.w3school.com.cn/example/html=
+_examples.asp">HTML =CA=B5=C0=FD</a></h5>
+<h5 id=3D"tools_quiz"><a href=3D"http://www.w3school.com.cn/html/html_quiz.=
+asp">HTML =B2=E2=D1=E9</a></h5>
+</div>
+
+<div id=3D"ad">
+
+
+</div>
+
+</div>
+
+<div id=3D"footer">
+<p>
+W3School =CC=E1=B9=A9=B5=C4=C4=DA=C8=DD=BD=F6=D3=C3=D3=DA=C5=E0=D1=B5=A1=A3=
+=CE=D2=C3=C7=B2=BB=B1=A3=D6=A4=C4=DA=C8=DD=B5=C4=D5=FD=C8=B7=D0=D4=A1=A3=CD=
+=A8=B9=FD=CA=B9=D3=C3=B1=BE=D5=BE=C4=DA=C8=DD=CB=E6=D6=AE=B6=F8=C0=B4=B5=C4=
+=B7=E7=CF=D5=D3=EB=B1=BE=D5=BE=CE=DE=B9=D8=A1=A3W3School =BC=F2=CC=E5=D6=D0=
+=CE=C4=B0=E6=B5=C4=CB=F9=D3=D0=C4=DA=C8=DD=BD=F6=B9=A9=B2=E2=CA=D4=A3=AC=B6=
+=D4=C8=CE=BA=CE=B7=A8=C2=C9=CE=CA=CC=E2=BC=B0=B7=E7=CF=D5=B2=BB=B3=D0=B5=A3=
+=C8=CE=BA=CE=D4=F0=C8=CE=A1=A3
+</p>
+
+<p>
+=B5=B1=CA=B9=D3=C3=B1=BE=D5=BE=CA=B1=A3=AC=B4=FA=B1=ED=C4=FA=D2=D1=BD=D3=CA=
+=DC=C1=CB=B1=BE=D5=BE=B5=C4<a href=3D"http://www.w3school.com.cn/about/abou=
+t_use.asp" title=3D"=B9=D8=D3=DA=CA=B9=D3=C3">=CA=B9=D3=C3=CC=F5=BF=EE</a>=
+=BA=CD<a href=3D"http://www.w3school.com.cn/about/about_privacy.asp" title=
+=3D"=B9=D8=D3=DA=D2=FE=CB=BD">=D2=FE=CB=BD=CC=F5=BF=EE</a>=A1=A3=B0=E6=C8=
+=A8=CB=F9=D3=D0=A3=AC=B1=A3=C1=F4=D2=BB=C7=D0=C8=A8=C0=FB=A1=A3
+=D4=DE=D6=FA=C9=CC=A3=BA<a href=3D"http://www.yktz.net/" title=3D"=C9=CF=BA=
+=A3=D3=AE=BF=C6=CD=B6=D7=CA=D3=D0=CF=DE=B9=AB=CB=BE">=C9=CF=BA=A3=D3=AE=BF=
+=C6=CD=B6=D7=CA=D3=D0=CF=DE=B9=AB=CB=BE</a>=A1=A3
+<a href=3D"http://www.miitbeian.gov.cn/">=C3=C9ICP=B1=B806004630=BA=C5</a>
+</p>
+</div>
+
+</div>
+
+</body></html>
+------=_NextPart_000_5663_96ADBBAC.65C6C642
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3school.com.cn/ui/holder.gif
+
+R0lGODlhaQQKALMAAJmZmf///+Pj48jIyLm5ue7u7qqqqtfX1/X19efn5wAAAAAAAAAAAAAAAAAA
+AAAAACH5BAAHAP8ALAAAAABpBAoAAASosKRAq7046827/2AojmRpnmiqrmzrvnAsz3Rt33iu73zv
+/8AcwEAYHBIISXDJbDqf0Kh0Sq1ar9isdsudDovH5KRLLpvP6LR6zW673/C46mtEKuX4vH7P7/v/
+gIGCcnRhd4OIiYqLjI2Oj5CROoV2Y5KXmJmam5ydnp8zlGKgpKWmp6ipqqtVooessLGys7S1tpeu
+lre7vL2+v8DBO7nCxcbHyMnKsqIRADs=
+------=_NextPart_000_5663_96ADBBAC.65C6C642
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3school.com.cn/ui/wrapper.gif
+
+R0lGODlhaQQKAJEAAO/v7////////wAAACH5BAEHAAIALAAAAABpBAoAAALtlIKpwO0Po5y02ouz
+3nyqD4biSJbmiabqyrbuC8fyTNf2jef6zvf+D/x0hsSi8YhMkgzMJikJjUqnVE/wis1qt9yu9wsO
+i8dkcPWMTqspy6ZztI7L58qy/Y7P6/f8vv8POEM3SFjINuL2JmLI2DgYCBkpOUlZaXmJ2eO4yXnW
+lngA1zlKapR5ipqqusra6upSGiub8Zn4NIub+/DK2+v7CxwsrKNbnFvrdmu8TDrs/AwdLT0dyWzd
+iawYcs3dSP0NHi4+Tt7SfU6YzaSM3q5WDh8vP0/f6n6fpm7Ajt8PVQ8woMCBBL34O/gPUaICADs=
+------=_NextPart_000_5663_96ADBBAC.65C6C642
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.w3school.com.cn/ui/bg.gif
+
+R0lGODlhVwTfAvcAAP////v7+//69fX6//H6///47//44vf39//16u/4///12er4///y+v/z5f/v
++PPz8//zz+P1///w3//wxf/s+OXz/+/v7//uvNvz/9/w///r1fHs5uvr6//l8/Hs3f/pz//rstTw
+/+Ls8f/myv/pqM3u///f8PXm1efn59Xr///kxf/mnvHj7P/e8/Xmu8/p/8br///klf/hv9Xm9f/f
+uuPj4//Y8Mrm/8rm9b/p//revv/hi//ctcXk//zbt//fgd/f3//V6/rejf/ar/3Zsbfm//XV5v/R
+7v/Xqv/cd/zbevzbfv/P6dvb27/h///abrDk/7rf/77e+v3ZcvXO5v/L6//K5v/XZqnh/7Xc/9bW
+1rfb/KLf/6ne+q/a///E6bHZ/f/F5NLS0prc/6rX/57b/Jzb/P+/4c7Ozv++5pbZ/fq+3pPa/8zM
+zP+6343X/8rKyv+35Py32/+13MbGxv2x2f+w4f+v2sLCwveu2/+q1/+q376+vvym27u7u/+j3Pyk
+2/2f2f+d2rKysv+W16qqqqGhoZmZmZCQkIiIiH9/f3d3d1VVVcwAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAHAP8ALAAAAABXBN8C
+AAj/AAEIHEiwoMGDCBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuX
+MGPKnEmzps2bOHPq3Mmzp8+fQIMKHUq0qNGjSJMqXcq0qdOnUKNKnUq1qtWrWLNq3cq1q9evYMOK
+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
+8oCg3YSRk4KE6/DjaqIZmwxtotrr7t4ZZxvk3Pg48uTKlzNv7vw59OgoH88UzTFvRskELWD++eAB
+ECAcLLzWXiP0UAtAtGiZyl68ZN8Q20i20LdNE9uxERIvaDyhbRNRRN9QnPFG3XxIGXjZcD/9Jx2E
+EUo4IYUVWnghhjEhKNNnwuGmnVjdgTjiVxWNeCIAqRkF4gHktaWXg7WB9mF662kBRHk/7ZdQbhKp
+916OLzbIWoZFGnkkkkkquSSTKm0YU48chdTfRSW2hqJkOyJkHf+Wuq3VpUM7UtmRjFJ+1EaHYA6k
+YkZoqukQmzAS2SSdddp5J5556mnTkzCNaVCcA4JoEpdgBrpQoW8+iJCbb4ZIVowfBVhQSImeaCWi
+jhaEqWyR7vkpqKGKOiqpEfb5EoFInRdSmnERqmlBh2YKa3EjNaqmmJ7eZSZIBzrK6UK+vgksf7qW
+eiyyySq7LLPTzUhTq7SFdBRS8pFk6YjYVUYrQQ8Qu9CtXeY6565qiSRsl9929qtIfy7aLLzxyjsv
+vRme+lKUt4mErboKhaumtSE1kS+WWk6Lq5x8lWluaUFmi1IbDoOoLUju1nsxxhlrvHFi97pkKXcj
+ISXrvhxEi9T/AQafObChKpdWw8kXkZawRItOSpBJno1o30o6g8gzSRZzPDTRRRt9NEkef8we002z
+1y8ebTg9NdRtDnyzQepVXZl4EsPJARBbV1oD1inOfObUTYckddrsQUz2T1qjCjdHcpvEdttI6703
+333LqzSeeDudU9tiq0S1hIK7fZPi7/r9OOSRS94s4JNbfjnmmWu+OcaVc/456KGLPjrp0XleOuqp
+q746662bdLrrscs+O+218w277bnrvjvvveeJu+/BCz888cU3BrzxySu/PPPNO8ur89FLPz310SNf
+PfbZa7/95tdz/z344Yvf+bPjm38++ukz67367bv/PvzQsR8///31239/T/Pjvz///fsvcvn+J8AB
+ErCAENGfAROowAViD4EMfCAEIxg8B0qwgha8oOooiMENcrCDk9OgB0MowhFuDIQkPCEKU3gsbrGw
+hS58IQxjKMMZ0rCGNrwhDnOowx3ysIc+/CEQgyjEIRKxiEY8IhKTqMQlMrGJTnwiFKMoxSlSsYpW
+vCIWs6jFLXKxi178IhjDKMYxkrGMZjwjGtOoxjWysY1ufCMc4yjHOdKxjna8Ix7zqMc98rGPfvwj
+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
+X7aUYCZmVxEmbBnmYa6UYkamUjHmaznmYwKXZGbmTFH/ZmlZ5mU6lGaG5kVxJml55mcylGimJjmR
+pmaZ5mkqlGrGJjixZma55muummzm5jbR5mPZ5m1al24G5zXxpmP55m8SlHAmJzURJ2Qd52QpJ3Ri
+FnMGlnE6Z3hFJ3Yu03RSp3UiVnZ+JzJt55N1J1yCp3kGk3huFnka1nm2JzClZ1xVp3O6J33yEnyO
+5XpyWX3upy3B1X06VV3dVX6eFV/xp4HO0lf9p1ORlVkN6Fmt1YFG6CsxlYI2lVQ56FlllYRu6CrZ
+VIXqVE+Z009hKFUVFYeeKCpl1E196EeNVEmdFIkG1UsZFYrW6CTxEzr5J4vOUz7tUz/5E0DFaEpB
+lESZ/5ONHqkm/aiSLimTNqmTPimURqmUTimVVqmVXimWZmk/ISmXWhI/GcEa1IEejCmZlqmZnima
+pqmarimbtqmbqmkdrIERLCkV5EEgEAKe5qme7imf9qmf/imgBqqgDuqfBkIeUMFEdamiRpIFsIAc
+vCmkRqqkTiqloqkcsAA/sUAfECqndqqnfiqo9mkfYOqilqojWcCjVqqqriqrqqoc8BMghKqsziqt
+ziog0Kip5qofGUGr9qqv/mqazikV1CqxFqux+ikV6KqyGtIaAKuzPiurroEF5MGxVqu10moeLKu2
+CpKYQqu3fqub1oEF3Om1lqu5DmogbKu6+hG4tqu7ov+pBZyrvM5rn66rverRu+bru8YrvfbrvN4r
+wNqRvg7st/Krvx7stQaswsoRwTassxoswkZssS4sxbqRw15sr0KsxG6srFasx6oRxoasqmosx5Zs
+p34sypqRyK6spJKsyb5soKaszIoRy9asm7oszOYsn84sz3qRzf6smuKszg4tIfSs0WoR0CatmQot
+0ebs0T6tFSmt1OoB0zbty0It1krR1Cpt1VptyWYt2DrR1iZt13rtxoYt2irR2AJt2ZptxKYt3BrR
+2v5s27rtwcYt3grR3Nps3dptv+Yt4PrQ3tZs3/rtvwYu4ubQ4LJs4RruuSYu5NrQ4q5s4zpuuUYu
+5sr/ELjegQ1QwBxQ6hx0gBXcgZveAQVQQLtWLqcKwhF0wB+A6h+0QBoIwqAKQgdQgLxmru66ULtS
+AAAwgZqGQRAM7/AC75gGwUB8rpv6LukWrLx2AAB8wZ/GQRVUb/VKL55WwUC87qBCL+2a6+6GL60A
+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
+nOY1t/nNcZ5zne+c5z33+c+BHnShD53oRTf60ZGedKUvnelNd/rToR51qU+d6lW3+tWxnnWtb53r
+Xff618EedrGPnexlN/vZ0Z52ta+d7W3/d/vb4d5zPMyd7nW3+93xnne9753vfff73wEfeMEPnvCF
+N/zhEZ94xS+e8Y13/OMhH3nJT57ylbf85TGfec1vnvOd9/znHx930Y+e9KU3/elRn3rVr571rXf9
+62Efe9nPnva1t/3tcZ973e+e9733/e+BH3zhD5/4xTf+8ZGffOUvn/nNd/7zoR996U+f+tW3/vWx
+3xcgbJ/73ff+98EffvGPn/zlN//5RXJ+9a+f/e13//ezL30gPID+9bf//fGff/3vn//99////Q8I
+0g8ACbAADfAAEdD+BDD+oG/+EvABITACC3ABQcIBJfACMRADKZABm88CM/ADQXACBzAE/0mwBPdv
+Azlw+TzQBFmwBFGwI1awBWUwA18wBZEvBmcwByGwBjcCB3XwBw2QB22w+HwQCI0wAEfwCJUQAIVw
+CIevCJcwCuuvCTECCqUwCqnQCYHPCjOQESDQC+kPDFswCy2CC6/wAcRQDFmQDLWw98zwAtXwANNw
+BtmQIt4wARkhD/VwD+Ow/+ZQBuuwDXXvDiOwD/+PDxFxDZOwBQ3R/xCRDxVREI8vBhuxEL+w/irx
+AwNRIgjxEh/wDz+wDzdREm1vBfOQBBPxDE9wEVnQCzNxCU9RAUnR+DxQD1ERAR/RFiOxAnMQDF/x
+/nIxFjFQF+lvFGdx9ixwD28R/4JRGP/D0P5+MQKNEQA68RMxERObERihMRSJcRqPEfZq0Rm70BKv
+cRc/ohrxcBsNUA2jkQCJ8QG88RtdzxTbcR3J8RnN0SPQERfVsQDZkRvvLx7lkfUocRmtMQzrMQGn
+cR/l8B7F8R6ncCCDjyHt0RNzcCF7ESIBUSK3sBWz0R9/ECNnMCHzjySlkSN/jyJVkQRFciVVUSBR
+8vRU0iU1kRVpcglhMiZLbyZv8gJbsidxUid5jyeBcgdtsihDUih3jyiREgF/simTUilzjymhUgRD
+giqrkgmlciqzEgifsivHcCtxDyvBkv++sixdUCxv7/3Ysi3d0v3S7y3lci7pcvvU8i7/8TIv9XIv
++bIv/fIvATMwBXMwCbMwDfMwETMxFXMxGbMxHfMxITMyJXMyKbMyLfMyMTMzNXMzObMzPfMzQTM0
+RXM0nw70THPvROI0VfPuSBPr8AAtZxAPUhM2ZVA2W9PqXpM2WdA2QSI3dbMEefM2p843fzMEg9Mj
+iLM4P/A4hRPqklM5MZA5OeI5oVMCpbM5m446qxMCr1MjtHM7E7A7sVPpvhM8D1A8MaI8zbMA0XM8
+j0491xMA29Mi4DM+/W8+3ZPo6vMCHQEC+5P+/rMF8ZMi9lMKAzRAdzM/nTMHEfQADzQ2Z9MEHWFC
+KbRCG7T/HrQ2FbQ0GRQBLfRDEzQk/wo0Ai/0/z7UQkN0Q5nuOUtUAlsUADNUQCNUBl/UROuvRhPw
+QgdURX0uOSeUBEEUKXdUIkbUPx8AR5XwR+1vSHl054iTQoHUQ09USU2QSSGiSB/wP5HU/qaUSvnT
+S620SXHONys0SvGvS730SLlURkW0QwH0RtH0/hB0SwmwTOkvTMXU5p40TTGQTvdvTtm0N930TQ0Q
+UDMQSusPT/OU5nzUTwvQUfPPUKt0RltQUut0TQ+1QRV1UWWORc00S+E0UD8CS3OUREP1UPFvUzkV
+5kjVQ01VB8O0VR30VXNQVVfV5WTVROP0UX8wVge1VGH1VosuV+3zAXy1WB/QVoV15f+I1T6PFVkR
+UFmXleKaNT6fFVoNUFqnNeCqdT2vFVsJUFu3dd661Ty/FVz/T1zHFd3KFTzPFV37T13XtdvadTvf
+FV73T17nVdrqtTrvFV/zT1/3ddlWs2DnLjUNdjUHdmEZtmEd9mEhNmIldmIptmIt9mIxNmM1dmM5
+tmM99mNBNmRFdmRJtmRN9mRRNmVVdmVZtmVd9mVhNmZldmaBL2Ft9mZxNmd1dmd5tmd99meBNmiF
+dmiJtmhxlmaRNmmVdmmZtmmd9mmhNmqldmqptmqt9mqxNmu1dmu5tmu99mvBNmzFdmzJtmzN9mzR
+Nm3Vdvj4oG3d9m3hNm7ldm7ptm7/7fZu8TZv9XZv+bZv6RYA/DZwBXdwCbdwDfdwAfdwFXdxGbdx
+HXduE/dxJXdyKbdyIddyMTdzNRdxZWZzPfdzQbduIzd0Sbd0M3d0TTd1VZdxUXd1Xfd1/bZ1YXd2
+afdvO7d2cTd34VZ2dbd3XZd3fTd4Sxd4hbd4PZd4jTd5LRdslLd5Pxd5nTd6Fxd6pbd6CZd6rTd7
++xZ7tbd78ZZ5vTd8B5d7xbd835Z8zdd80Td9xXd92dd7wfd95Vdu3Xd+rbd+7Vd68Td/nXd/+Vd5
+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
+------=_NextPart_000_5663_96ADBBAC.65C6C642
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.w3school.com.cn/c5.css
+
+* { margin: 0px; padding: 0px; border: 0px; }
+
+body { font-family: Verdana, Arial, =CB=CE=CC=E5; font-size: 12px; }
+
+strong { font-family: =CE=A2=C8=ED=D1=C5=BA=DA; font-size: 14px; color: rgb=
+(0, 0, 0); font-weight: 800; }
+
+body#homefirst div#maincontent, div#maincontent h1, div#maincontent h2, div=
+#sidebar div#ad h2 { font-family: =CE=A2=C8=ED=D1=C5=BA=DA; }
+
+pre, pre code, div#maincontent input, div#maincontent select, div#mainconte=
+nt textarea { font-family: Consolas, 'Courier New', Courier, monospace; }
+
+h2, h3, h4, h5, h6, em { font-weight: bold; }
+
+p.note span, p.important span, p.tip span, p.inherited, p.inherited span, p=
+.gototop, .html5_new_note span { font-weight: bold; }
+
+body#homesecond div#navsecond li { font-weight: bold; }
+
+.tiy { font-weight: normal; }
+
+div#maincontent h1 { font-size: 26px; font-weight: 400; }
+
+div#maincontent h2, div#sidebar div#ad h2, body#homefirst div#maincontent h=
+3 { font-size: 14px; }
+
+div#navsecond h2, div#sidebar h2, div#maincontent h3, div#maincontent h4 { =
+font-size: 12px; }
+
+div#maincontent button, div#maincontent input, div#maincontent select, div#=
+maincontent textarea { font-size: 12px; }
+
+body#homefirst div#maincontent div#w3 h2 { font-size: 20px; }
+
+em { font-style: normal; }
+
+pre code { color: rgb(0, 0, 221); }
+
+.html5_new_note { background-image: url(http://www.w3school.com.cn/i/html5_=
+new_note.png); background-color: rgb(255, 255, 255); padding-left: 20px; ba=
+ckground-position: 0% 0%; background-repeat: no-repeat no-repeat; }
+
+.html5_new_note span { color: blue; }
+
+p.gototop { text-align: right; }
+
+div#maincontent button { margin-top: 15px; }
+
+html { min-width: 966px; background-color: rgb(249, 249, 249); overflow-y: =
+scroll; overflow-x: hidden; background-position: initial initial; backgroun=
+d-repeat: initial initial; }
+
+body { text-align: center; margin: 0px; padding: 0px; border: 0px; backgrou=
+nd-image: url(http://www.w3school.com.cn/ui/holder.gif); background-color: =
+rgb(249, 249, 249); background-position: 50% 0%; background-repeat: no-repe=
+at repeat; }
+
+div#wrapper { margin: 0px auto; padding: 0px; border: 0px; width: 1129px; t=
+ext-align: left; background-image: url(http://www.w3school.com.cn/ui/wrappe=
+r.gif); background-color: transparent; background-position: 0% 0%; backgrou=
+nd-repeat: no-repeat repeat; }
+
+div#navsecond { float: left; margin: 0px 0px 0px 6px; padding: 0px; border:=
+ 0px; width: 180px; background-color: transparent; background-position: ini=
+tial initial; background-repeat: initial initial; }
+
+html > body div#navsecond { margin-left: 12px; }
+
+div#maincontent { float: left; margin: 0px; padding: 0px; border: 0px; widt=
+h: 740px; background-color: transparent; background-position: initial initi=
+al; background-repeat: initial initial; }
+
+div#sidebar { float: left; margin: 0px; padding: 0px; border: 0px; width: 1=
+80px; background-color: transparent; background-position: initial initial; =
+background-repeat: initial initial; }
+
+div#footer { clear: both; margin: 0px 0px 0px 12px; padding: 0px; width: 11=
+00px; height: 46px; background-color: rgb(182, 182, 182); border-top-width:=
+ 10px; border-top-style: solid; border-top-color: rgb(255, 255, 255); borde=
+r-bottom-width: 10px; border-bottom-style: solid; border-bottom-color: rgb(=
+255, 255, 255); background-position: initial initial; background-repeat: in=
+itial initial; }
+
+div#footer p { margin: 5px 10px 0px; }
+
+div#header, div#header_index { margin: 0px 0px 0px 12px; padding: 0px; bord=
+er: 0px; width: 1100px; height: 90px; background-color: rgb(239, 239, 239);=
+ }
+
+div#header a, div#header_index a, div#header_index h1 { text-indent: -9999p=
+x; margin: 0px; padding: 0px; border: 0px; overflow: hidden; }
+
+div#header a:link, div#header a:visited { display: block; width: 372px; hei=
+ght: 90px; background-image: url(http://www.w3school.com.cn/ui/bg.gif); bac=
+kground-color: transparent; margin: 0px; padding: 0px; border: 0px; backgro=
+und-position: 0px -120px; background-repeat: no-repeat no-repeat; }
+
+div#header a:hover { background-image: url(http://www.w3school.com.cn/ui/bg=
+.gif); background-color: transparent; background-position: 0px -210px; back=
+ground-repeat: no-repeat no-repeat; }
+
+div#header div#ad_head { float: right; width: 728px; height: 90px; backgrou=
+nd-color: rgb(239, 239, 239); }
+
+div#header_index a:link, div#header_index a:visited { display: block; width=
+: 1100px; height: 90px; background-image: url(http://www.w3school.com.cn/ui=
+/head_index.gif); background-color: transparent; margin: 0px; padding: 0px;=
+ border: 0px; background-position: 0% 0%; background-repeat: no-repeat no-r=
+epeat; }
+
+div#header_index a:hover { background-image: url(http://www.w3school.com.cn=
+/ui/head_index.gif); background-color: transparent; background-position: 0p=
+x -90px; background-repeat: no-repeat no-repeat; }
+
+body#homefirst div#maincontent div { padding-top: 0px; }
+
+body#homefirst div#maincontent div#w3 { text-align: center; }
+
+body#homefirst div#maincontent div#partner { width: 307px; float: left; }
+
+body#homefirst div#maincontent div#update { width: 300px; float: left; marg=
+in: 0px; }
+
+body#homefirst div#maincontent div#w3 h2 { margin-top: 20px; }
+
+body#homefirst div#maincontent h3 { margin-top: 15px; }
+
+body#homefirst div#maincontent div.idea { padding: 0px; min-height: 118px; =
+}
+
+body#homefirst div#maincontent div.idea img { margin: 0px; float: left; }
+
+div#navfirst { height: 55px; width: 1100px; margin: 0px 0px 0px 12px; paddi=
+ng: 0px; border: 0px; background-color: rgb(255, 255, 255); background-posi=
+tion: initial initial; background-repeat: initial initial; }
+
+div#navfirst ul#menu { height: 55px; width: 1100px; background-image: url(h=
+ttp://www.w3school.com.cn/ui/bg.gif); background-color: transparent; margin=
+: 0px; padding: 0px; position: relative; background-position: 0% 0%; backgr=
+ound-repeat: no-repeat no-repeat; }
+
+div#navfirst ul#menu li { margin: 0px; padding: 0px; list-style: none; posi=
+tion: absolute; top: 0px; }
+
+ul#menu li, ul#menu a { display: block; height: 55px; }
+
+div#navfirst ul#menu li a { text-indent: -9999px; overflow: hidden; text-de=
+coration: none; }
+
+#h { left: 0px; width: 155px; }
+
+#b { left: 155px; width: 157px; }
+
+#s { left: 312px; width: 167px; }
+
+#d { left: 479px; width: 158px; }
+
+#x { left: 637px; width: 101px; }
+
+#m { left: 738px; width: 185px; }
+
+#w { left: 923px; width: 177px; }
+
+#h a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: 0px -55px; background-re=
+peat: no-repeat no-repeat; }
+
+#b a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -155px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+#s a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -312px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+#d a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -479px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+#x a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -637px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+#m a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -738px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+#w a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; background-position: -923px -55px; background=
+-repeat: no-repeat no-repeat; }
+
+body.html #h { background-image: url(http://www.w3school.com.cn/ui/bg.gif);=
+ background-color: transparent; background-position: 0px -55px; background-=
+repeat: no-repeat no-repeat; }
+
+body.browserscripting #b { background-image: url(http://www.w3school.com.cn=
+/ui/bg.gif); background-color: transparent; background-position: -155px -55=
+px; background-repeat: no-repeat no-repeat; }
+
+body.serverscripting #s { background-image: url(http://www.w3school.com.cn/=
+ui/bg.gif); background-color: transparent; background-position: -312px -55p=
+x; background-repeat: no-repeat no-repeat; }
+
+body.dotnet #d { background-image: url(http://www.w3school.com.cn/ui/bg.gif=
+); background-color: transparent; background-position: -479px -55px; backgr=
+ound-repeat: no-repeat no-repeat; }
+
+body.xml #x { background-image: url(http://www.w3school.com.cn/ui/bg.gif); =
+background-color: transparent; background-position: -637px -55px; backgroun=
+d-repeat: no-repeat no-repeat; }
+
+body.multimedia #m { background-image: url(http://www.w3school.com.cn/ui/bg=
+.gif); background-color: transparent; background-position: -738px -55px; ba=
+ckground-repeat: no-repeat no-repeat; }
+
+body.webbuilding #w { background-image: url(http://www.w3school.com.cn/ui/b=
+g.gif); background-color: transparent; background-position: -923px -55px; b=
+ackground-repeat: no-repeat no-repeat; }
+
+#ws { left: 738px; width: 185px; }
+
+#ws a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif); =
+background-color: transparent; background-position: -738px -55px; backgroun=
+d-repeat: no-repeat no-repeat; }
+
+body.webservices #ws { background-image: url(http://www.w3school.com.cn/ui/=
+bg.gif); background-color: transparent; background-position: -738px -55px; =
+background-repeat: no-repeat no-repeat; }
+
+a:link, a:visited { text-decoration: underline; color: rgb(144, 11, 9); bac=
+kground-color: transparent; background-position: initial initial; backgroun=
+d-repeat: initial initial; }
+
+a:hover { text-decoration: underline; color: rgb(255, 0, 0); background-col=
+or: transparent; background-position: initial initial; background-repeat: i=
+nitial initial; }
+
+a:active { text-decoration: underline; color: rgb(255, 0, 0); background-co=
+lor: transparent; background-position: initial initial; background-repeat: =
+initial initial; }
+
+div#navsecond li.currentLink a:link, div#navsecond li.currentLink a:visited=
+ { text-decoration: none; color: rgb(255, 0, 0); background-color: transpar=
+ent; background-position: initial initial; background-repeat: initial initi=
+al; }
+
+div#navsecond li.currentLink a:hover { text-decoration: underline; color: r=
+gb(255, 0, 0); background-color: transparent; background-position: initial =
+initial; background-repeat: initial initial; }
+
+div#navsecond a:link, div#navsecond a:visited { text-decoration: none; colo=
+r: rgb(0, 0, 0); background-color: transparent; background-position: initia=
+l initial; background-repeat: initial initial; }
+
+div#navsecond a:hover { text-decoration: underline; color: rgb(0, 0, 0); ba=
+ckground-color: transparent; background-position: initial initial; backgrou=
+nd-repeat: initial initial; }
+
+div#navsecond a:active { text-decoration: underline; color: rgb(0, 0, 0); b=
+ackground-color: transparent; background-position: initial initial; backgro=
+und-repeat: initial initial; }
+
+div#navsecond a#link_help { color: rgb(4, 121, 167); }
+
+div#navsecond a#link_about { color: rgb(4, 121, 167); }
+
+div#maincontent .partner a { color: rgb(4, 121, 167); }
+
+div#footer a:link, div#footer a:visited { text-decoration: none; color: rgb=
+(0, 0, 0); background-color: transparent; background-position: initial init=
+ial; background-repeat: initial initial; }
+
+div#footer a:hover { text-decoration: underline; color: rgb(0, 0, 0); backg=
+round-color: transparent; background-position: initial initial; background-=
+repeat: initial initial; }
+
+div#footer a:active { text-decoration: underline; color: rgb(0, 0, 0); back=
+ground-color: transparent; background-position: initial initial; background=
+-repeat: initial initial; }
+
+div#maincontent p { margin: 12px 0px 0px; line-height: 150%; }
+
+div#maincontent h1 { margin: 15px 0px 0px 15px; }
+
+div#maincontent h3, div#maincontent h4 { margin: 20px 0px 0px; }
+
+div#navsecond h2, div#sidebar h2 { margin: 10px 0px 0px 12px; }
+
+body#homesecond div#navsecond li { margin: 5px 0px 0px; }
+
+div.backtoreference p { margin: 0px; }
+
+div#w3school p { margin-left: 15px; }
+
+div#maincontent div p:first-child { margin: 0px; }
+
+p.important span { color: rgb(221, 0, 0); }
+
+p.tip span { color: rgb(255, 153, 85); }
+
+p.inherited { color: rgb(255, 0, 0); }
+
+p.inherited span { color: rgb(153, 153, 153); }
+
+p.chinese span { color: rgb(0, 0, 255); }
+
+pre { width: 685px; margin: 10px 0px 0px; padding: 10px; border: 1px dotted=
+ rgb(119, 136, 85); background-color: rgb(245, 245, 245); background-positi=
+on: initial initial; background-repeat: initial initial; }
+
+pre code { color: rgb(0, 0, 221); }
+
+pre span { color: rgb(153, 153, 153); }
+
+pre span.code_comment { color: rgb(153, 153, 153); }
+
+blockquote { margin: 15px; }
+
+div#maincontent ul, div#maincontent ol { margin-top: 10px; margin-left: 35p=
+x; margin-bottom: 0px; }
+
+div#maincontent li { margin-top: 3px; }
+
+div#navsecond ul, div#navsecond li, div#sidebar ul, div#sidebar li { margin=
+: 0px; padding: 0px; }
+
+div#navsecond ul, div#sidebar ul { margin-left: 12px; }
+
+div#navsecond li, div#sidebar li { list-style: none; }
+
+div#navsecond li.list_apart { margin-top: 10px; }
+
+img { border: 0px; }
+
+div#maincontent img { margin: 25px 0px 0px 25px; }
+
+div#maincontent div { width: 710px; margin: 0px 0px 0px 15px; padding: 20px=
+ 0px; border-width: 1px 0px; border-top-style: solid; border-top-color: rgb=
+(170, 170, 170); border-bottom-style: solid; border-bottom-color: rgb(170, =
+170, 170); }
+
+body#homesecond dl { margin: 0px; padding: 0px; }
+
+body#homesecond dt { font-weight: bold; font-size: 14px; margin: 0px; paddi=
+ng: 0px; }
+
+body#homesecond dd { color: rgb(0, 0, 136); margin: 10px 0px 0px; padding: =
+0px; }
+
+body#homesecond dd p { margin: 0px; padding: 0px; }
+
+div#maincontent div#toc div { margin: 15px 0px 35px; padding: 0px; border: =
+0px; }
+
+div#toc img { float: left; margin: 0px 10px 0px 0px; }
+
+div#toc div dt, div#toc div dl { margin-top: 0px; }
+
+div#example dl, div.example dl, div#moreexamples dl, div#toc dl, div#refere=
+ncelist dl { margin: 10px 0px 0px; }
+
+div#example dt, div.example dt, div#moreexamples dt, div#toc dt, div#refere=
+ncelist dt { margin: 15px 0px 5px; }
+
+div#example dd, div.example dd, div#moreexamples dd, div#toc dd, div#refere=
+ncelist dd { margin: 0px; }
+
+dl.define { margin: 10px 0px 0px; }
+
+dl.define dt { margin: 15px 0px 3px; font-weight: bold; color: rgb(4, 121, =
+167); }
+
+dl.define dd { margin: 10px 0px 0px 10px; line-height: 150%; }
+
+span.deprecated { color: rgb(232, 0, 0); }
+
+.marked { color: rgb(221, 0, 0); }
+
+p.gototop { text-align: right; }
+
+div#maincontent canvas.canvas_example { border: 1px solid rgb(211, 211, 211=
+); background-color: rgb(255, 255, 255); width: 300px; height: 150px; margi=
+n-top: 15px; background-position: initial initial; background-repeat: initi=
+al initial; }
+
+div#maincontent div.panel, p.flip { width: 400px; margin: 0px; padding: 5px=
+; text-align: center; background-color: rgb(229, 238, 204); border: 1px sol=
+id rgb(195, 195, 195); background-position: initial initial; background-rep=
+eat: initial initial; }
+
+div#maincontent p.flip { margin-top: 15px; }
+
+div.panel { display: none; }
+
+div#maincontent input[type=3D"text"] { border: 1px solid rgb(190, 190, 190)=
+; height: 30px; padding-left: 10px; margin: 15px 0px 0px; }
+
+div#maincontent input[type=3D"submit"], button { border: 1px solid rgb(190,=
+ 190, 190); height: 30px; padding-left: 5px; padding-right: 5px; }
+
+div#maincontent input[type=3D"submit"]:hover, button:hover { border: 1px so=
+lid rgb(153, 153, 153); }
+
+div#maincontent select { border: 1px solid rgb(190, 190, 190); height: 25px=
+; margin: 15px 0px 0px; }
+
+table.dataintable { margin-top: 10px; border-collapse: collapse; border: 1p=
+x solid rgb(170, 170, 170); width: 100%; }
+
+table.dataintable th { vertical-align: baseline; padding: 5px 15px 5px 6px;=
+ background-color: rgb(213, 213, 213); border: 1px solid rgb(170, 170, 170)=
+; text-align: left; }
+
+table.dataintable td { vertical-align: text-top; padding: 6px 15px 6px 6px;=
+ background-color: rgb(239, 239, 239); border: 1px solid rgb(170, 170, 170)=
+; }
+
+table.dataintable pre { width: auto; margin: 0px; padding: 0px; border: 0px=
+; background-color: transparent; }
+
+table.dataintable p { margin: 0px 0px 2px; }
+
+div#maincontent table.dataintable ul, div#maincontent table.dataintable li =
+{ list-style-type: none; margin: 0px; padding: 0px; }
+
+table.dataintable td em { color: rgb(0, 0, 255); font-weight: normal; }
+
+table.dataintable .table_value { color: rgb(15, 147, 210); }
+
+.no_wrap { white-space: nowrap; }
+
+div#maincontent table.dataintable ul.listintable { margin: 20px; padding: 0=
+px; }
+
+div#maincontent table.dataintable ul.listintable li { list-style-type: disc=
+; }
+
+table.dataintable td.html5_new { background-image: url(http://www.w3school.=
+com.cn/i/table_bg_html5.gif); background-color: rgb(239, 239, 239); backgro=
+und-position: 100% 0%; background-repeat: no-repeat no-repeat; }
+
+tr.notsupported { color: rgb(153, 153, 153); }
+
+#jsref table.browsersupport td, #tags table.browsersupport td, #cssref tabl=
+e.browsersupport td { width: 20%; }
+
+#jsref table.browsersupport th, #tags table.browsersupport th, #cssref tabl=
+e.browsersupport th { color: rgb(51, 51, 51); font-weight: 400; }
+
+#jsref table.browsersupport, #tags table.browsersupport, #cssref table.brow=
+sersupport { width: 50%; }
+
+table.browsersupport .bsIE { background-image: url(http://www.w3school.com.=
+cn/i/compatible_ie.gif); }
+
+table.browsersupport .bsFirefox { background-image: url(http://www.w3school=
+.com.cn/i/compatible_firefox.gif); }
+
+table.browsersupport .bsChrome { background-image: url(http://www.w3school.=
+com.cn/i/compatible_chrome.gif); }
+
+table.browsersupport .bsSafari { background-image: url(http://www.w3school.=
+com.cn/i/compatible_safari.gif); }
+
+table.browsersupport .bsOpera { background-image: url(http://www.w3school.c=
+om.cn/i/compatible_opera.gif); }
+
+table.browsersupport .bsNoIE { background-image: url(http://www.w3school.co=
+m.cn/i/incompatible_ie.gif); }
+
+table.browsersupport .bsNoFirefox { background-image: url(http://www.w3scho=
+ol.com.cn/i/incompatible_firefox.gif); }
+
+table.browsersupport .bsNoChrome { background-image: url(http://www.w3schoo=
+l.com.cn/i/incompatible_chrome.gif); }
+
+table.browsersupport .bsNoSafari { background-image: url(http://www.w3schoo=
+l.com.cn/i/incompatible_safari.gif); }
+
+table.browsersupport .bsNoOpera { background-image: url(http://www.w3school=
+.com.cn/i/incompatible_opera.gif); }
+
+table.browsersupport .bsPreIE { background-image: url(http://www.w3school.c=
+om.cn/i/precompatible_ie.gif); }
+
+table.browsersupport .bsPreFirefox { background-image: url(http://www.w3sch=
+ool.com.cn/i/precompatible_firefox.gif); }
+
+table.browsersupport .bsPreChrome { background-image: url(http://www.w3scho=
+ol.com.cn/i/precompatible_chrome.gif); }
+
+table.browsersupport .bsPreSafari { background-image: url(http://www.w3scho=
+ol.com.cn/i/precompatible_safari.gif); }
+
+table.browsersupport .bsPreOpera { background-image: url(http://www.w3schoo=
+l.com.cn/i/precompatible_opera.gif); }
+
+table.browsersupport { margin-top: 15px; border-collapse: collapse; width: =
+70%; }
+
+table.browsersupport td { padding: 3px; height: 32px; vertical-align: middl=
+e; background-color: rgb(255, 255, 255); border: 1px solid rgb(218, 218, 21=
+8); background-position: 50% 50%; background-repeat: no-repeat no-repeat; }
+
+table.browsersupport td.bsProperty { font-family: 'courier new'; white-spac=
+e: nowrap; width: 20%; }
+
+table.browsersupport th { padding: 3px; height: 15px; vertical-align: middl=
+e; text-align: center; background-color: rgb(239, 239, 239); border: 1px so=
+lid rgb(195, 195, 195); }
+
+div#tpn, div#bpn { height: 29px; width: 230px; margin: 0px; padding: 0px; b=
+order: 0px; background-color: rgb(255, 255, 255); background-position: init=
+ial initial; background-repeat: initial initial; }
+
+div#tpn ul.prenext, div#bpn ul.prenext { height: 29px; width: 230px; backgr=
+ound-image: url(http://www.w3school.com.cn/ui/bg.gif); background-color: tr=
+ansparent; margin: 0px; padding: 0px; border: 0px; position: relative; back=
+ground-position: 0px -570px; background-repeat: no-repeat no-repeat; }
+
+div#tpn ul.prenext li, div#bpn ul.prenext li { margin: 0px; padding: 0px; l=
+ist-style: none; position: absolute; top: 0px; overflow: hidden; }
+
+ul.prenext li, ul.prenext a { display: block; height: 29px; }
+
+div#tpn ul.prenext a, div#bpn ul.prenext a { text-indent: -9999px; text-dec=
+oration: none; }
+
+.pre { left: 0px; width: 105px; }
+
+.next { left: 125px; width: 105px; }
+
+.pre a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif);=
+ background-color: transparent; background-position: 0px -619px; background=
+-repeat: no-repeat no-repeat; }
+
+.next a:hover { background-image: url(http://www.w3school.com.cn/ui/bg.gif)=
+; background-color: transparent; background-position: -125px -619px; backgr=
+ound-repeat: no-repeat no-repeat; }
+
+div#course { background-image: url(http://www.w3school.com.cn/ui/bg.gif); b=
+ackground-color: transparent; padding: 45px 0px 10px; background-position: =
+0px -690px; background-repeat: no-repeat no-repeat; }
+
+div#afterschool { background-image: url(http://www.w3school.com.cn/ui/bg.gi=
+f); background-color: transparent; padding: 45px 0px 10px; background-posit=
+ion: -362px -690px; background-repeat: no-repeat no-repeat; }
+
+div#selected { background-image: url(http://www.w3school.com.cn/ui/bg.gif);=
+ background-color: transparent; padding: 45px 0px 10px; background-position=
+: -362px -690px; background-repeat: no-repeat no-repeat; }
+
+div#tools { background-image: url(http://www.w3school.com.cn/ui/bg.gif); ba=
+ckground-color: transparent; padding: 66px 0px 10px 34px; margin: 0px; back=
+ground-position: -181px -690px; background-repeat: no-repeat no-repeat; }
+
+body#homesecond div#tools { background-image: url(http://www.w3school.com.c=
+n/ui/bg.gif); background-color: transparent; padding: 45px 0px 10px; margin=
+: 0px; background-position: -181px -690px; background-repeat: no-repeat no-=
+repeat; }
+
+div#books { background-image: url(http://www.w3school.com.cn/ui/bg.gif); ba=
+ckground-color: transparent; padding: 45px 0px 0px 15px; margin: 0px; backg=
+round-position: -450px -326px; background-repeat: no-repeat no-repeat; }
+
+div#ad { background-image: url(http://www.w3school.com.cn/ui/bg.gif); backg=
+round-color: transparent; padding: 66px 0px 10px 10px; margin: 0px; backgro=
+und-position: -543px -690px; background-repeat: no-repeat no-repeat; }
+
+div#sidebar div#ad h2 { color: rgb(0, 0, 0); margin: 0px 0px 25px 25px; }
+
+div#ad span { margin: 0px 0px 15px; }
+
+div#tools h5 { margin: 0px 0px 12px; padding: 0px; overflow: hidden; }
+
+div#tools h5#tools_reference, div#tools h5#tools_example, div#tools h5#tool=
+s_quiz, div#tools h5#tools_search { text-indent: -9999px; width: 112px; hei=
+ght: 68px; }
+
+div#tools h5#tools_reference a, div#tools h5#tools_example a, div#tools h5#=
+tools_quiz a, div#tools h5#tools_search a { display: block; margin: 0px; pa=
+dding: 0px; width: 100%; height: 100%; text-decoration: none; }
+
+div#tools h5#tools_reference a { background-image: url(http://www.w3school.=
+com.cn/ui/bg.gif); background-color: transparent; background-position: 0px =
+-320px; background-repeat: no-repeat no-repeat; }
+
+div#tools h5#tools_reference a:hover { background-image: url(http://www.w3s=
+chool.com.cn/ui/bg.gif); background-color: transparent; background-position=
+: -113px -320px; background-repeat: no-repeat no-repeat; }
+
+div#tools h5#tools_example a { background-image: url(http://www.w3school.co=
+m.cn/ui/bg.gif); background-color: transparent; background-position: 0px -3=
+89px; background-repeat: no-repeat no-repeat; }
+
+div#tools h5#tools_example a:hover { background-image: url(http://www.w3sch=
+ool.com.cn/ui/bg.gif); background-color: transparent; background-position: =
+-113px -389px; background-repeat: no-repeat no-repeat; }
+
+div#tools h5#tools_quiz a { background-image: url(http://www.w3school.com.c=
+n/ui/bg.gif); background-color: transparent; background-position: 0px -458p=
+x; background-repeat: no-repeat no-repeat; }
+
+div#tools h5#tools_quiz a:hover { background-image: url(http://www.w3school=
+.com.cn/ui/bg.gif); background-color: transparent; background-position: -11=
+3px -458px; background-repeat: no-repeat no-repeat; }
+
+div#searchui { margin: 15px 0px 15px 5px; padding: 0px; }
+
+div#searchui p { margin: 0px 0px 5px; padding: 0px; }
+
+#searchui label { margin: 0px 0px 0px 2px; text-transform: uppercase; lette=
+r-spacing: 2px; font-size: 11px; }
+
+#searchui input.button { padding: 0px; margin: 0px; background-color: rgb(1=
+74, 65, 65); font-style: normal; font-variant: normal; font-weight: normal;=
+ font-size: 12px; line-height: normal; font-family: Verdana, Arial, Helveti=
+ca, sans-serif; color: rgb(255, 255, 255); width: 25px; height: 20px; backg=
+round-position: initial initial; background-repeat: initial initial; }
+
+#searchui input.box { margin: 0px 0px 0px 2px; width: 135px; height: 20px; =
+background-color: rgb(253, 253, 253); font-style: normal; font-variant: nor=
+mal; font-weight: normal; font-size: 12px; line-height: normal; font-family=
+: Verdana, Arial, Helvetica, sans-serif; background-position: initial initi=
+al; background-repeat: initial initial; }
+------=_NextPart_000_5663_96ADBBAC.65C6C642--

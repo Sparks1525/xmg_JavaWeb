@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                      http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+  version="4.0"
+  metadata-complete="true">
+
+    <!-- getServletContextName返回应用的名称，
+        这里的名称是web.xml里面配置的display-name，
+        如果没配置getServletContextName返回则返回null -->
+    <!-- getServletConfig().getServletContext().getServletContextName() -->
+    <display-name>displayName</display-name>
+
+    <!--  getServletConfig().getServletContext().getInitParameterNames() -->
+    <context-param>
+        <param-name>contextName1</param-name>
+        <param-value>contextValue1</param-value>
+    </context-param>
+    <context-param>
+        <param-name>contextName2</param-name>
+        <param-value>contextValue2</param-value>
+    </context-param>
+
+
+    <servlet>
+        <!-- getServletConfig().getServletName() -->
+        <servlet-name>HellowServlet</servlet-name>
+        <servlet-class>servletdemo.HelloServlet</servlet-class>
+
+        <!-- getServletConfig().getInitParameterNames() -->
+        <init-param>
+            <param-name>name</param-name>
+            <param-value>Will</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HellowServlet</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>MyServlet</servlet-name>
+        <servlet-class>myservlet1.MyServlet</servlet-class>
+        <init-param>
+            <param-name>name</param-name>
+            <param-value>Will</param-value>
+        </init-param>
+        <init-param>
+            <param-name>age</param-name>
+            <param-value>20</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MyServlet</servlet-name>
+        <url-pattern>/myservlet1</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>Regedit</servlet-name>
+        <servlet-class>myGenericServlet5.RegeditServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Regedit</servlet-name>
+        <url-pattern>/regedit</url-pattern>
+    </servlet-mapping>
+
+</web-app>
